@@ -1,6 +1,7 @@
- [
+[
   {
     "name": "Boaco",
+    "abbr": "BOA",
     "municipalities": [
       { "name": "Boaco", "code": "361" },
       { "name": "Camoapa", "code": "362" },
@@ -12,6 +13,7 @@
   },
   {
     "name": "Carazo",
+    "abbr": "CAR",
     "municipalities": [
       { "name": "Jinotepe", "code": "041" },
       { "name": "Diriamba", "code": "042" },
@@ -25,6 +27,7 @@
   },
   {
     "name": "Chinandega",
+    "abbr": "CHI",
     "municipalities": [
       { "name": "Chinandega", "code": "081" },
       { "name": "Corinto", "code": "082" },
@@ -43,6 +46,7 @@
   },
   {
     "name": "Chontales",
+    "abbr": "CHO",
     "municipalities": [
       { "name": "Juigalpa", "code": "121" },
       { "name": "Acoyapa", "code": "122" },
@@ -58,6 +62,7 @@
   },
   {
     "name": "Estelí",
+    "abbr": "EST",
     "municipalities": [
       { "name": "Estelí", "code": "161" },
       { "name": "Pueblo Nuevo", "code": "162" },
@@ -69,6 +74,7 @@
   },
   {
     "name": "Granada",
+    "abbr": "GRA",
     "municipalities": [
       { "name": "Granada", "code": "201" },
       { "name": "Nandaime", "code": "202" },
@@ -78,6 +84,7 @@
   },
   {
     "name": "Jinotega",
+    "abbr": "JIN",
     "municipalities": [
       { "name": "Jinotega", "code": "241" },
       { "name": "San Francisco del Norte", "code": "242" },
@@ -90,6 +97,7 @@
   },
   {
     "name": "León",
+    "abbr": "LEO",
     "municipalities": [
       { "name": "Leon", "code": "281" },
       { "name": "El Jicaral", "code": "283" },
@@ -105,6 +113,7 @@
   },
   {
     "name": "Madriz",
+    "abbr": "MAD",
     "municipalities": [
       { "name": "Somoto", "code": "321" },
       { "name": "Telpaneca", "code": "322" },
@@ -119,6 +128,8 @@
   },
   {
     "name": "Managua",
+    "abbr": "MAN",
+    "districts": ["D1", "D2", "D3", "D4", "D5", "D6", "D7"],
     "municipalities": [
       { "name": "Managua", "code": "001" },
       { "name": "San Rafael Del Sur", "code": "002" },
@@ -133,6 +144,7 @@
   },
   {
     "name": "Masaya",
+    "abbr": "MAS",
     "municipalities": [
       { "name": "Masaya", "code": "401" },
       { "name": "Nindirí", "code": "402" },
@@ -147,6 +159,7 @@
   },
   {
     "name": "Matagalpa",
+    "abbr": "MAT",
     "municipalities": [
       { "name": "Matagalpa", "code": "441" },
       { "name": "San Ramón", "code": "442" },
@@ -165,6 +178,7 @@
   },
   {
     "name": "Nueva Segovia",
+    "abbr": "NSE",
     "municipalities": [
       { "name": "Ocotal", "code": "481" },
       { "name": "Santa María", "code": "482" },
@@ -183,6 +197,7 @@
   },
   {
     "name": "Río San Juan",
+    "abbr": "RSJ",
     "municipalities": [
       { "name": "San Carlos", "code": "521" },
       { "name": "El Castillo", "code": "522" },
@@ -194,6 +209,7 @@
   },
   {
     "name": "Rivas",
+    "abbr": "RIV",
     "municipalities": [
       { "name": "Rivas", "code": "561" },
       { "name": "San Jorge", "code": "562" },
@@ -209,6 +225,7 @@
   },
   {
     "name": "Atlántico Sur",
+    "abbr": "RACCS",
     "municipalities": [
       { "name": "Bluefields", "code": "601" },
       { "name": "El Rama", "code": "603" },
@@ -225,6 +242,7 @@
   },
   {
     "name": "Atlántico Norte",
+    "abbr": "RACCN",
     "municipalities": [
       { "name": "Puerto Cabezas", "code": "607" },
       { "name": "Waspán", "code": "608" },
