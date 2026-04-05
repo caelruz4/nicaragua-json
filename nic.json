@@ -126,12 +126,15 @@
       { "name": "San José de Cusmapa", "code": "329" }
     ]
   },
-  {
+{
     "name": "Managua",
     "abbr": "MAN",
-    "districts": ["D1", "D2", "D3", "D4", "D5", "D6", "D7"],
     "municipalities": [
-      { "name": "Managua", "code": "001" },
+      { 
+        "name": "Managua", 
+        "code": "001",
+        "districts": ["D1", "D2", "D3", "D4", "D5", "D6", "D7"]
+      },
       { "name": "San Rafael Del Sur", "code": "002" },
       { "name": "Tipitapa", "code": "003" },
       { "name": "Villa Carlos Fonseca", "code": "004" },
